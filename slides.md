@@ -49,8 +49,7 @@ Check Point Software
 https://blog.checkpoint.com/2021/12/11/protecting-against-cve-2021-44228-apache-log4j2-versions-2-14-1/
 
 ---
-layout: quote
-class: "text-center mt-16"
+layout: new-section
 ---
 
 ![check point research shows multiple variants over a week](https://blog.checkpoint.com/wp-content/uploads/2021/12/variants-700x408.jpg)
