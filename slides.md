@@ -135,17 +135,19 @@ media: ./assets/fedora-packaging-guidelines-2.png
 
 ---
 layout: text-image
-media: '?'
+media: ''
 ---
 
-# npmjs registry packaging guidelines<sup>1</sup>
+# npmjs registry packaging guidelines
+
+?????
 
 ---
 layout: text-image
 media: ./assets/npmjs-packaging-guideslines-0.png
 ---
 
-# npmjs registry packaging guidelines
+# npmjs registry packaging guidelines<sup>1</sup>
 
 - Security section about setting up 2FA
 - PGP Signatures as maintainers
