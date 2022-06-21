@@ -164,6 +164,8 @@ layout: new-section
 # What is supply chain security?
 
 ---
+layout: new-section
+---
 
 ![supply chain security diagram](https://slsa.dev/images/SupplyChainDiagram.svg)
 
@@ -173,6 +175,8 @@ Touch-points of software development from a lifecycle perspective
 Any software can introduce vulnerabilities into a supply chain. As a system gets more complex, it’s critical to already have checks and best practices in place to guarantee artifact integrity, that the source code you’re relying on is the code you’re actually using.
 -->
 
+---
+layout: new-section
 ---
 
 ![supply chain security diagram](https://slsa.dev/images/supply-chain-threats.svg)
@@ -295,7 +299,7 @@ layout: new-section
 
 ---
 
-## Supply chain security for consumers
+# Supply chain security for consumers
 
 What should you verify for a given artifact that was produced?
 Provenance and source attestations, composed of:
@@ -316,13 +320,12 @@ A provenance is a set of attestations.
 Provenance, per [slsa's definition](https://slsa.dev/provenance), is an attestation that some entity (builder) produced one or more software artifacts (the subject of an in-toto attestation Statement) by executing some invocation, using some other artifacts as input (materials).
 -->
 
-
 ---
 layout: text-image
 media: https://slsa.dev/images/provenance/v0.2/provenance.svg
 ---
 
-## Provenance
+# Provenance
 
 - Inputs to the build process
 - The configuration used to build the artifact
@@ -343,7 +346,7 @@ layout: text-image
 media: https://slsa.dev/images/provenance/v0.2/provenance.svg
 ---
 
-## Provenance
+# Provenance
 
 Remember *Reflections on Trusting Trust* ?
 
