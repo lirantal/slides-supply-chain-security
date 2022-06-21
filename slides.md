@@ -3,8 +3,8 @@ theme: penguin
 colorSchema: 'auto'
 layout: intro
 themeConfig:
-  logoHeader: '/logo.svg'
-  eventLogo: 'https://img2.storyblok.com/352x0/f/84560/2388x414/23d8eb4b8d/vue-amsterdam-with-name.png'
+  # logoHeader: 'https://github.com/lirantal.png'
+  eventLogo: 'https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-monochrome.png'
   eventUrl: 'https://vuejs.amsterdam/'
   twitter: '@liran_tal'
   twitterUrl: 'https://twitter.com/liran_tal'
