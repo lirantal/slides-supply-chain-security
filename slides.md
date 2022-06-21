@@ -5,7 +5,7 @@ layout: intro
 themeConfig:
   # logoHeader: 'https://github.com/lirantal.png'
   eventLogo: 'https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-monochrome.png'
-  eventUrl: 'https://vuejs.amsterdam/'
+  eventUrl: 'https://snyk.io'
   twitter: '@liran_tal'
   twitterUrl: 'https://twitter.com/liran_tal'
 
